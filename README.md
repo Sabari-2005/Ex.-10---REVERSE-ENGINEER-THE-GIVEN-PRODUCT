@@ -31,11 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![image](https://github.com/Sabari-2005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139338709/259df62f-623b-41bc-9a43-36d3fe1ec075)
+![image](https://github.com/Sabari-2005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139338709/07e997db-ad94-4211-8b35-6e8226f5dc92)
 
 
 ### Output:
-![image](https://github.com/Sabari-2005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139338709/36134655-c5bc-41e6-b462-c528c22af569)
+![image](https://github.com/Sabari-2005/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139338709/0ce93b0a-1cbb-40d7-a98f-eab06242c7b7)
 
 
 ### Name:R.Sabarinath
